@@ -1,16 +1,16 @@
-baseURL = "http://cc.osono.org/"
+baseURL = "https://www.cc.osono.nl/"
 languageCode = "nl-nl"
-title = "Concepts and Creation Blog"
+title = "Concepts & Creation Blog"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
 [params]
-title = "Groep 4"
-author = "Groep 4"
-profilePicture = "images/group.jpg"
-keywords = ""
+title = "Projectgroep 4"
+author = "Community Flow"
+profilePicture = "images/logo.jpeg"
+keywords = "Blog"
 favicon = "favicons/"
 customCss = []
 customJs = []
@@ -23,20 +23,20 @@ enable = false  # options: true, false. Enable math support globally, default: f
 use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
-[[params.socialIcons]]
-icon = "fa-linkedin"
-title = "Linkedin"
-url = ""
+# [[params.socialIcons]]
+# icon = "fa-linkedin"
+# title = "Linkedin"
+# url = ""
 
 [[params.socialIcons]]
 icon = "fa-github"
 title = "GitHub"
-url = ""
+url = "https://github.com/OssamaSijbesma/windesheim-cc-blog"
 
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = ""
+url = "mailto:ossama_sybesma@hotmail.com"
 
 ## Menu items
 
@@ -49,13 +49,13 @@ url = ""
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Berichten"
   weight = 200
   identifier = "posts"
   url = "/post/"
 
   [[menu.main]]
-  name = "About"
+  name = "Over ons"
   weight = 300
   identifier = "about"
   url = "/about/"
