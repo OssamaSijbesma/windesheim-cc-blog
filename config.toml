@@ -59,3 +59,9 @@ url = "mailto:ossama_sybesma@hotmail.com"
   weight = 300
   identifier = "about"
   url = "/about/"
+
+  [[menu.main]]
+  name = "Our Team"
+  weight = 300
+  identifier = "Our Team"
+  url = "/team/"

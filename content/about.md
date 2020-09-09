@@ -1,6 +1,6 @@
 +++
 title = "Over ons"
-description = "Een introductie over onze groep."
+description = "Our missie, vissie en filosofie"
 date = "2020-09-06"
 aliases = ["about-us","over-ons"]
 author = "Community Flow"
