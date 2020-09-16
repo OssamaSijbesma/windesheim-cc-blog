@@ -55,13 +55,19 @@ url = "mailto:ossama_sybesma@hotmail.com"
   url = "/post/"
 
   [[menu.main]]
+  name = "Scrumboard"
+  weight = 200
+  identifier = "trello"
+  url = "/trello/"
+
+  [[menu.main]]
   name = "Over ons"
   weight = 300
   identifier = "about"
   url = "/about/"
 
   [[menu.main]]
-  name = "Our Team"
+  name = "Ons Team"
   weight = 300
-  identifier = "Our Team"
+  identifier = "team"
   url = "/team/"
