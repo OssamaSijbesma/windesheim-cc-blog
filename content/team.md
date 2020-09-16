@@ -1,5 +1,5 @@
 +++
-title = "Our Team"
+title = "Ons Team"
 description = "Een introductie over onze groep."
 date = "2020-09-09"
 aliases = ["Our Team","Ons Team"]
