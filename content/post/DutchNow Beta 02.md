@@ -28,3 +28,4 @@ Installation guide:
 ![Android install unkown apps](/images/andriod-install-unknown-apps.png)
 
 5. Toggle **Allow app installs** on.
+6. Download and install the app from this webpage.
