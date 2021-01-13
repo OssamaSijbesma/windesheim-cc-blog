@@ -1,6 +1,6 @@
 +++
 author = "Community Flow"
-title = "Dutch Now Marketingplan"
+title = "DutchNow Marketingplan"
 date = "2020-12-01"
 description = "Het marketingplan is de plan voor de marketing en marktintroductie van Dutch Now."
 tags = [
@@ -8,7 +8,7 @@ tags = [
     "Marketingplan",
 ]
 categories = [
-    "Dutch Now",
+    "DutchNow",
     "Concepts & Creation",
 ]
 +++

@@ -1,6 +1,6 @@
 +++
 author = "Community Flow"
-title = "Dutch Now Business Case"
+title = "DutchNow Business Case"
 date = "2020-09-29"
 description = "Dit document dient als uiting van het Dutch Now concept."
 tags = [
